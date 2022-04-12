@@ -11,15 +11,10 @@ public class CursoJava{
         c3.atirar();
         c3.atirar();
         c3.atirar();
-        //c3.sofrerDano(5);
+        c3.sofrerDano(5);
         //c3.sofrerDano(7);
-
-
         c1.info();
         c2.info();
         c3.info();
-
-
-
     }
 }
